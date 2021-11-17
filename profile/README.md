@@ -11,11 +11,9 @@ Harbor is hosted by the [Cloud Native Computing Foundation](https://cncf.io) (CN
 
 **Community information:** https://goharbor.io/community/
 
-**Project Development Roadmap:** https://github.com/orgs/goharbor/projects/1
-
 **Slack:** [#harbor](https://cloud-native.slack.com/messages/harbor)
 
-**Slack for Devs:** [#harbor-dev](https://cloud-native.slack.com/messages/harbor-dev)
+**Slack for Devs** [#harbor-dev](https://cloud-native.slack.com/messages/harbor-dev)
 
 **Follow us on Twitter:** [@project_harbor](https://twitter.com/project_harbor)
 
